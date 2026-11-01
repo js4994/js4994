@@ -51,13 +51,41 @@ Hi! I'm **Jesica Singh**, a student at **KL University**, passionate about techn
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:190B35,50:6D28D9,100:06B6D4&text=Tech%20Stack&fontSize=25&fontColor=FFFFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:190B35,50:6D28D9,100:06B6D4&text=Tech%20Stack&fontSize=25&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
-### 💻 Languages and Tools
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=javascript,html,css,git,github,vscode&theme=dark" alt="Technologies"/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css&theme=dark"/>
+
+### 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark"/>
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Spring_Data_JPA-171329?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/Hibernate-171329?style=for-the-badge&logo=hibernate&logoColor=8B9AA7"/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark"/>
+
+### ☁️ Cloud, DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,postman,vercel&theme=dark"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Render-171329?style=for-the-badge&logo=render&logoColor=46E3B7"/>
+<img src="https://img.shields.io/badge/HuggingFace-171329?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
 
 </div>
+
+
 
 ---
 
