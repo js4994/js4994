@@ -86,21 +86,26 @@ Hi! I'm **Jesica Singh**, a student at **KL University**, passionate about techn
 
 ---
 
+
 <!-- ================ GITHUB ANALYTICS ================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:190B35,50:6D28D9,100:06B6D4&text=GitHub%20Analytics&fontSize=25&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:190B35,50:6D28D9,100:06B6D4&text=GitHub%20Analytics&fontSize=25&fontColor=FFFFFF" width="100%"/>
 
 <br/><br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=js4994&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=js4994&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages"/>
+<img src="https://streak-stats.demolab.com/?user=js4994&theme=tokyonight&hide_border=true" width="90%" alt="GitHub streak"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=js4994&theme=tokyonight&hide_border=true" width="80%" alt="GitHub streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=js4994&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution graph"/>
+
+<br/><br/>
+
+<a href="https://github.com/js4994?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
